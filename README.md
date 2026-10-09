@@ -1,6 +1,6 @@
 # Francesco Preti
 
-** Machine Learning · Quantum Computing and Control · Scientific Software**
+**Machine Learning · Quantum Computing and Control · Scientific Software**
 
 I'm a physicist and scientific software developer based in Aachen, Germany. 
 
