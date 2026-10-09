@@ -2,7 +2,8 @@
 
 **Machine Learning · Quantum Computing&Control · Scientific Software**
 
-I'm a physicist and scientific software developer based in Aachen, Germany.
+I'm a physicist and scientific software developer based in Aachen, Germany. I am currently part of the [SDL Applied Machine Learning](https://www.fz-juelich.de/en/jsc/about-us/structure/simulation-and-data-labs/sdl-applied-machine-learning) of Helmholtz AI, located at the Forschungszentrum Jülich.
+
 My work combines reinforcement learning, agentic AI, quantum control, optimization, and
 GPU-accelerated numerical simulation. I also recently worked on Bayesian Optimization, LLM finetuning and distributed ML.
 
