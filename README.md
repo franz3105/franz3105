@@ -48,7 +48,7 @@ pandapower, including automated testing and CI pipelines.
 - **Code availability:** At the moment, the code is not publicly available.
 - **Engineering**: This repo integrates [Ray + RLlib](https://docs.ray.io/en/latest/index.html) with SLURM and uses [pandapower](https://www.pandapower.org/) .
 
-- ### Agentic AI for [ParaQeet](https://paraqeet.readthedocs.io/en/latest/)
+### Agentic AI for [ParaQeet](https://paraqeet.readthedocs.io/en/latest/)
 
 Developing an agentic AI system for integration into the quantum control
 library ParaQeet. A working prototype currently runs on an HPC cluster.
