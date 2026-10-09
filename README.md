@@ -84,8 +84,8 @@ optimization. I have also supervised Master's students and presented my work
 to international technical audiences.
 
 Selected publications include work in *PRX Quantum* (2022), *Quantum* (2024),
-and *Physical Review Research* (2024). See my
-[ORCID profile](https://orcid.org/0000-0003-3819-3445) for publication details.
+and *Physical Review Research* (2024). Please see my
+[Scholar profile]([https://orcid.org/0000-0003-3819-3445](https://scholar.google.com/citations?hl=it&user=ZMjgfK0AAAAJ&view_op=list_works&sortby=pubdate)) for publication details.
 
 ## Contact
 
