@@ -1,14 +1,14 @@
 # Francesco Preti
 
-**Machine Learning · Quantum Computing&Control · Scientific Software**
+** Machine Learning · Quantum Computing and Control · Scientific Software**
 
-I'm a physicist and scientific software developer based in Aachen, Germany. I am currently part of the lab [SDL Applied Machine Learning](https://www.fz-juelich.de/en/jsc/about-us/structure/simulation-and-data-labs/sdl-applied-machine-learning) of Helmholtz AI, located at the Forschungszentrum Jülich.
+I'm a physicist and scientific software developer based in Aachen, Germany. 
 
 My work combines reinforcement learning, agentic AI, quantum control, optimization, and
-GPU-accelerated numerical simulation. I also recently worked on Bayesian Optimization, LLM finetuning and distributed ML.
+GPU-accelerated numerical simulation. I also recently worked on Bayesian Optimization, LLM fine-tuning and distributed ML.
 
 I hold a PhD in Physics from the University of Cologne and currently work as an AI Consultant at the Jülich
-Supercomputing Centre.
+Supercomputing Centre, as a member of Helmholtz AI: [SDL Applied Machine Learning](https://www.fz-juelich.de/en/jsc/about-us/structure/simulation-and-data-labs/sdl-applied-machine-learning).
 
 I develop Python and JAX software for quantum-device dynamics and scalable
 computational experiments. My engineering experience includes pytest, Git,
@@ -26,27 +26,34 @@ CI pipelines on the JSC cluster (JUBE).
 Public research code accompanying *Hybrid discrete-continuous compilation of
 trapped-ion quantum circuits with deep reinforcement learning*.
 
-- **Problem:** Quantum circuit compilation with discrete and continuous choices.
-- **My contribution:** The algorithm (PS-LSTM) was developed during my time at the University of Innsbruck.
+- **Problem:** Hybrid discrete-continuous quantum circuit compilation.
+- **My contribution:** I developed the entire framework (the RL PyTorch implementation and the quantum circuit simulation in JAX and Numba) and its integration on HPC systems.
 - **Approach:** The RL algorithm optimizes unitary synthesis and state preparation with respect to discrete-continuous parameters in trapped-ion circuits.
-- **Results:** [Publication](https://quantum-journal.org/papers/q-2024-05-14-1343/#)
+- **Results:** The agent is effective in guiding the continuous optimization algorithm towards optimal solutions in the discrete-continuous optimization landscape: [Publication](https://quantum-journal.org/papers/q-2024-05-14-1343/#)
 - **Engineering:** The code integrates both Numba and JAX with my own and other reinforcement learning algorithms. It also includes tests and standard quantum compilation approaches.
 
 [Source code](https://github.com/franz3105/RL_Ion_gates), [data](https://zenodo.org/record/8288977)
 
-- ## Ongoing projects (FZJ Gitlab)
+## Ongoing projects (FZJ Gitlab)
 
-Some current work is not publicly available or will be available on the Gitlab pages of FZJ.
+Some current work is not publicly available or will be available on the GitLab pages of FZJ.
 
-### RL for MARL-based power-grid control
+### Multi-agent reinforcement-learing for power-grid control
 
 Developing a reinforcement-learning codebase for power-grid control using
 pandapower, including automated testing and CI pipelines.
 
-- **My contribution:** We are studying MARL systems for a pandapower environment that (in its upcoming version) will model the powergrid of the Forschungszentrum Jülich.
+- **My contribution:** We are studying multi-agent reinforcement learning (MARL) systems for a pandapower environment that -- in its upcoming version -- will also model the power grid of the Forschungszentrum Jülich.
 - **Status:** In development. Ray code is currently running on the JSC Cluster.
 - **Code availability:** At the moment, the code is not publicly available.
-- **Engineering**: This repo integrates [Ray&RLlib](https://docs.ray.io/en/latest/index.html) with SLURM and uses [pandapower](https://www.pandapower.org/) .
+- **Engineering**: This repo integrates [Ray + RLlib](https://docs.ray.io/en/latest/index.html) with SLURM and uses [pandapower](https://www.pandapower.org/) .
+
+- ### Agentic AI for [ParaQeet](https://paraqeet.readthedocs.io/en/latest/)
+
+Developing an agentic AI system for integration into the quantum control
+library ParaQeet. A working prototype currently runs on an HPC cluster.
+
+- **Status:** Prototype development; library integration ongoing.
 
 ### Quantum compilers and partitioners
 
