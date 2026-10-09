@@ -85,7 +85,7 @@ to international technical audiences.
 
 Selected publications include work in *PRX Quantum* (2022), *Quantum* (2024),
 and *Physical Review Research* (2024). Please see my
-[Scholar profile]([https://orcid.org/0000-0003-3819-3445](https://scholar.google.com/citations?hl=it&user=ZMjgfK0AAAAJ&view_op=list_works&sortby=pubdate)) for publication details.
+[Google Scholar profile](https://orcid.org/0000-0003-3819-3445](https://scholar.google.com/citations?hl=it&user=ZMjgfK0AAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?user=ZMjgfK0AAAAJ&hl=it&oi=ao)) for publication details.
 
 ## Contact
 
