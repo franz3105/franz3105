@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## Projects
+
+Here are some of my projects:
+
+- [RL_Ion_gates](https://github.com/franz3105/RL_Ion_gates): Source code for *Hybrid discrete-continuous compilation of trapped-ion quantum circuits with deep reinforcement learning*.
+- [HelmholtzAI_QC_Introduction](https://github.com/franz3105/HelmholtzAI_QC_Introduction): An introduction to quantum computing for AI scientists.
+- [OptEntDist](https://github.com/franz3105/OptEntDist): Optimal entanglement purification.
+- [BaseLChainAgent](https://github.com/franz3105/BaseLChainAgent): Basic implementation of a LangChain agent.
+- [qblog](https://github.com/franz3105/qblog): Personal quantum-themed blog.
+
 <!--
 **franz3105/franz3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
